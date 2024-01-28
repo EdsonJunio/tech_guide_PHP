@@ -1,0 +1,8 @@
+{
+  "name":"dev/exceptions",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}
